@@ -1,0 +1,8 @@
+albumentations
+clearml
+numpy
+opencv-python
+Pillow
+torchmetrics
+ultralytics
+# pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu121
